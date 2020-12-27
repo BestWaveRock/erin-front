@@ -13,7 +13,7 @@ npm install -g @quasar/cli
 ```bash
 quasar dev
 ```
-
+ 
 ### Lint the files
 ```bash
 npm run lint
