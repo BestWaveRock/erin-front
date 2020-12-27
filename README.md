@@ -12,6 +12,7 @@ npm install -g @quasar/cli
 ### Start the app in development mode (hot-code reloading, error reporting, etc.)
 ```bash
 quasar dev
+
 ```
 
 ### Lint the files
